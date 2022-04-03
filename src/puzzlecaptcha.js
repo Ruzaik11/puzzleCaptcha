@@ -165,7 +165,7 @@ document.addEventListener('click', function (e) {
             }
 
         }
-        console.log(TOTAL_TEST, TOTAL_PASS);
+ 
         TOTAL_TEST++;
 
     }
