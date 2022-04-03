@@ -6,9 +6,9 @@ Add this HTML tag before the submit button of your form
 ```HTML
   <div id="puzzle-captcha"></div>
 ```
-LINK 
-	<link rel="stylesheet" href="src/puzzlecaptcha.css">
-  <script type="text/javascript" src="src/puzzlecaptcha.js"></script>
+Files to be linked 
+- <link rel="stylesheet" href="src/puzzlecaptcha.css">
+- <script type="text/javascript" src="src/puzzlecaptcha.js"></script>
 
 Verify before submitting your form using
   ```JS
