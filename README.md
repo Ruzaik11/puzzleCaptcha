@@ -3,12 +3,15 @@
 Puzzle captcha is a simple front end based alternative for google Recaptcha which will challenge the automated programs with simple puzzles.
 
 Add this HTML tag before the submit button of your form
-```HTML
-  <div id="puzzle-captcha"></div>
-```
-Files to be linked 
--<link rel="stylesheet" href="src/puzzlecaptcha.css">
--<script type="text/javascript" src="src/puzzlecaptcha.js"></script>
+  ```HTML
+    <div id="puzzle-captcha"></div>
+  ```
+
+HTML code to link the files
+  ```HTML
+  <link rel="stylesheet" href="src/puzzlecaptcha.css">
+  <script type="text/javascript" src="src/puzzlecaptcha.js"></script>
+  ```
 
 Verify before submitting your form using
   ```JS
