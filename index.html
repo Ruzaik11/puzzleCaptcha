@@ -1,0 +1,22 @@
+<body>
+	<link rel="stylesheet" href="src/puzzlecaptcha.css">
+
+	<div id="puzzle-captcha"></div>
+	<br>
+	<button id="btn-submit" onclick="isPuzzleCaptchaSolved()" >Submit</button>
+
+	<script  src="src/puzzlecaptcha.js"></script>
+
+	<script type="text/javascript" >
+
+		document.getElementById("btn-submit").addEventListener("click", function () {
+			if(isPuzzleCaptchaSolved()){
+				alert("Yes you're a human");
+			}else{
+				alert("I don't think you're a human");
+			}
+		});
+		
+	</script>
+
+</body>
