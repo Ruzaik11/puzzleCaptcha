@@ -7,8 +7,8 @@ Add this HTML tag before the submit button of your form
   <div id="puzzle-captcha"></div>
 ```
 Files to be linked 
-- <link rel="stylesheet" href="src/puzzlecaptcha.css">
-- <script type="text/javascript" src="src/puzzlecaptcha.js"></script>
+-<link rel="stylesheet" href="src/puzzlecaptcha.css">
+-<script type="text/javascript" src="src/puzzlecaptcha.js"></script>
 
 Verify before submitting your form using
   ```JS
