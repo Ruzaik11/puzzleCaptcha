@@ -1,6 +1,6 @@
 # puzzleCaptcha
 
-Puzzle captcha is a simple front end based alternative for google Recaptcha which will challenge the automated programs with simple puzzles.
+This project is quite enjoyable! Puzzle Captcha is a straightforward front-end CAPTCHA, similar to Google's reCAPTCHA, designed to challenge automated programs with simple puzzles.
 
 Add this HTML tag before the submit button of your form
 ```HTML
